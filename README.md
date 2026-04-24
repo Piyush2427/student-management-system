@@ -241,3 +241,17 @@ ISC License
 ##  Author
 
 Created for educational purposes.
+
+---
+
+##  Code Changes
+
+### Client
+- Updated to support React Router v7
+- Added support for Vite
+- Updated Tailwind CSS to v4
+
+### Server
+- Updated to support Express v5
+- Added support for MongoDB
+- Updated Mongoose to v6
